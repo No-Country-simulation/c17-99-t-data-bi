@@ -23,19 +23,19 @@
   <img src="https://numpy.org/images/logos/numpy.svg" width="100">
 ### 📊 Herramientas y Técnicas Utilizadas:
 
-1. **Colaboratory con Python**: Utilizaremos Colaboratory, una plataforma de Google basada en Jupyter Notebooks, junto con las potentes librerías de Python para análisis de datos como Pandas, NumPy y Matplotlib.
+- **Colaboratory con Python**: Utilizaremos Colaboratory, una plataforma de Google basada en Jupyter Notebooks, junto con las potentes librerías de Python para análisis de datos como Pandas, NumPy y Matplotlib.
    
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100">
 
-3. **Power BI**: Para la visualización de datos avanzada, aprovecharemos Power BI, una herramienta líder en el mercado para crear informes interactivos y paneles de control.
+- **Power BI**: Para la visualización de datos avanzada, aprovecharemos Power BI, una herramienta líder en el mercado para crear informes interactivos y paneles de control.
    
    ![Power BI Logo](https://powerbi.microsoft.com/pictures/application-thumbnail/application_200x200.png)
 
-4. **Jira**: Para la gestión de proyectos ágil, utilizaremos Jira, una plataforma ampliamente utilizada para la planificación y seguimiento de proyectos de software.
+- **Jira**: Para la gestión de proyectos ágil, utilizaremos Jira, una plataforma ampliamente utilizada para la planificación y seguimiento de proyectos de software.
    
    ![Jira Logo](https://www.atlassian.com/software/jira/brand-resources/images/_jira_lockup_black.svg)
 
-5. **Miro**: Para la colaboración en línea y la creación de diagramas y tableros, emplearemos Miro, una herramienta intuitiva y versátil para la colaboración visual.
+- **Miro**: Para la colaboración en línea y la creación de diagramas y tableros, emplearemos Miro, una herramienta intuitiva y versátil para la colaboración visual.
    
    ![Miro Logo](https://miro.com/static/images/layout/favicon-32x32.png)
    
