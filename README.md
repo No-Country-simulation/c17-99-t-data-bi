@@ -38,16 +38,7 @@
 5. **Miro**: Para la colaboración en línea y la creación de diagramas y tableros, emplearemos Miro, una herramienta intuitiva y versátil para la colaboración visual.
    
    ![Miro Logo](https://miro.com/static/images/layout/favicon-32x32.png)
-   - **Figma**: Para el diseño de interfaces y prototipado.
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1024px-Figma-logo.svg.png" width="50">
-
-- **Jira**: Para la gestión ágil de proyectos.
-  
-  [![Jira Logo](https://www.atlassian.com/software/jira/brand-resources/images/_jira_lockup_black.svg)](https://www.atlassian.com/software/jira)
-
-
-
+   
 - **Slack**: Plataforma de comunicación para equipos.
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100">
@@ -102,27 +93,5 @@
 
 
 
-
-
-
-
-
-
-
-<img src="img.jpg" width="50">
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tecnologías: **Jira**, Slack, Figma, **python**, **prower** BI, Kaggle, Discord, One drive, Meet, **Github**
 
 Enlaces del Proyecto: 
