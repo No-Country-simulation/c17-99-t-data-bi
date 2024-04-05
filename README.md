@@ -7,25 +7,41 @@
 - [**Conceptos Claves**](#conceptos-claves)
 - [**Público Objetivo**](#público-objetivo)
 - [**Metodología**](#metodología)
-- [**Datos**](#datos)
-- [**Herramientas y Técnicas**](#herramientas-y-técnicas)
+   - [**Datos**](#datos)
+   - [**Herramientas y Técnicas**](#herramientas-y-técnicas)
+         -[**Etapas del Proyecto**](#etapas-del-proyecto) 
 - [**Contacto**](#contacto)
-### 📚 Librerías Utilizadas:
 
-- **Pandas**: Librería de Python para manipulación y análisis de datos.
+### Introducción:
+
+### Resumen:
+
+### Conceptos Claves:
+
+### Público Objetivo:
+
+###  Metodología:
+  #### Datos:
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100">
+  - Fuente: La información se extrajo de la página [Kaggle](https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data?resource=download) .
+
+  - Características: Incluyen variables clave para el análisis de rendimiento laboral, métricas de productividad y características del puesto.
+    
+  #### Libreríass:
+
+ - **Pandas**: Librería de Python para manipulación y análisis de datos.
+  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100">
  
 
-- **NumPy**: Librería fundamental para computación numérica en Python.
+ - **NumPy**: Librería fundamental para computación numérica en Python.
   
-  ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
-  <img src="https://numpy.org/images/logos/numpy.svg" width="100">
-### 📊 Herramientas y Técnicas Utilizadas:
+   ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
+   <img src="https://numpy.org/images/logos/numpy.svg" width="100">
+ #### Herramientas y Técnicas:
 
 - **Colaboratory con Python**: Utilizaremos Colaboratory, una plataforma de Google basada en Jupyter Notebooks, junto con las potentes librerías de Python para análisis de datos como Pandas, NumPy y Matplotlib.
-   
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100">
+     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100">
 
 - **Power BI**: Para la visualización de datos avanzada, aprovecharemos Power BI, una herramienta líder en el mercado para crear informes interactivos y paneles de control.
    
@@ -41,27 +57,27 @@
    
 - **Slack**: Plataforma de comunicación para equipos.
   <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100">
 
 - **Figma**: Herramienta de diseño colaborativo.
   <br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100">
 
 - **Python**: Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100">
 
 - **Power BI**: Herramienta de visualización de datos de Microsoft.
   <br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100">
 
 - **Kaggle**: Plataforma de aprendizaje automático y ciencia de datos.
   <br>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="100">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="100">
 
 - **Discord**: Plataforma de comunicación para comunidades y grupos.
   <br>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100">
 
 - **OneDrive**: Servicio de almacenamiento en la nube de Microsoft.
   <br>
@@ -69,19 +85,22 @@
 
 - **Google Meet**: Plataforma de videoconferencia de Google.
   <br>
-  <img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=googlemeet&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=googlemeet&logoColor=white" width="100">
 
 - **GitHub**: Plataforma de desarrollo colaborativo para proyectos de software.
   <br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">
   
 - **Jira**: Herramienta de gestión de proyectos y seguimiento de problemas.
   <br>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="100">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="100">
+    ### Etapas del Proyecto:
+      - Proceso de ETL (Extracción, transformación y carga de datos) ETL(link a carpeta del repo)
+      - Proceso de EDA (Análisis Exploratorio de los datos) EDA
 
 
 
-### 👥 Contacto:
+###  Contacto:
 
 | Integrantes          | Rol                                     | GitHub                                        | LinkedIn                                                                           |
 |----------------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
