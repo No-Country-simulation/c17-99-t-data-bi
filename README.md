@@ -8,8 +8,9 @@
 - [**Público Objetivo**](#público-objetivo)
 - [**Metodología**](#metodología)
    - [**Datos**](#datos)
-   - [**Herramientas y Técnicas**](#herramientas-y-técnicas)
-         -[**Etapas del Proyecto**](#etapas-del-proyecto) 
+   - [**Librerías y plataformas**](#librerías-y-plataformas)
+   - [**Etapas del Proyecto**](#etapas-del-proyecto)
+- [**Herramientas utilizadas en el proyecto**](#herramientas-utilizadas-en-el-proyecto)
 - [**Contacto**](#contacto)
 
 ### Introducción:
@@ -27,7 +28,7 @@
 
   - Características: Incluyen variables clave para el análisis de rendimiento laboral, métricas de productividad y características del puesto.
     
-  #### Libreríass:
+  #### Librerías y plataformas:
 
  - **Pandas**: Librería de Python para manipulación y análisis de datos.
   
@@ -38,7 +39,7 @@
   
    ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
    <img src="https://numpy.org/images/logos/numpy.svg" width="100">
- #### Herramientas y Técnicas:
+
 
 - **Colaboratory con Python**: Utilizaremos Colaboratory, una plataforma de Google basada en Jupyter Notebooks, junto con las potentes librerías de Python para análisis de datos como Pandas, NumPy y Matplotlib.
      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100">
@@ -51,6 +52,13 @@
    
    ![Jira Logo](https://www.atlassian.com/software/jira/brand-resources/images/_jira_lockup_black.svg)
 
+
+    ### Etapas del Proyecto:
+
+    - Proceso de ETL (Extracción, transformación y carga de datos) [ETL](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
+    - Proceso de EDA (Análisis Exploratorio de los datos) [EDA](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
+###  Herramientas utilizadas en el proyecto:
+
 - **Miro**: Para la colaboración en línea y la creación de diagramas y tableros, emplearemos Miro, una herramienta intuitiva y versátil para la colaboración visual.
    
    ![Miro Logo](https://miro.com/static/images/layout/favicon-32x32.png)
@@ -58,10 +66,6 @@
 - **Slack**: Plataforma de comunicación para equipos.
   <br>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100">
-
-- **Figma**: Herramienta de diseño colaborativo.
-  <br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100">
 
 - **Python**: Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.
   <br>
@@ -94,10 +98,6 @@
 - **Jira**: Herramienta de gestión de proyectos y seguimiento de problemas.
   <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="100">
-    ### Etapas del Proyecto:
-      - Proceso de ETL (Extracción, transformación y carga de datos) ETL(link a carpeta del repo)
-      - Proceso de EDA (Análisis Exploratorio de los datos) EDA
-
 
 
 ###  Contacto:
@@ -113,4 +113,4 @@
 
 
 
-Enlaces del Proyecto: 
+
