@@ -21,6 +21,18 @@
 
 ### Público Objetivo:
 
+El proyecto "Employee Productivity and Satisfaction Analysis" tiene como objetivo llegar a una variedad de audiencias dentro y fuera de nuestra organización. Nuestro público objetivo incluye:
+
+Directivos y Gerentes: Proporcionaremos informes y análisis detallados sobre la productividad y satisfacción de los empleados para ayudar a los directivos y gerentes a tomar decisiones estratégicas sobre la gestión de recursos humanos y la planificación empresarial.
+
+Equipos de Recursos Humanos: El equipo de recursos humanos se beneficiará de las visualizaciones y análisis para identificar tendencias y patrones en el desempeño de los empleados, apoyando así la planificación de la fuerza laboral y la retención de talento.
+
+Profesionales de Análisis y Datos: Los analistas y profesionales de datos podrán utilizar las herramientas y técnicas avanzadas de análisis de datos para descubrir ideas y optimizar procesos en el ámbito de recursos humanos.
+
+Equipo de Operaciones y Gestión de Proyectos: Los equipos operativos y de gestión de proyectos podrán evaluar la eficiencia de los equipos, el impacto de los proyectos en el desempeño y la identificación de áreas de mejora.
+
+Empleados y Profesionales Individuales: Incluso los empleados individuales podrán beneficiarse al comprender su desempeño en relación con sus compañeros y su satisfacción laboral.
+
 ###  Metodología:
   #### Datos:
   
