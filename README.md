@@ -15,9 +15,21 @@
 
 ### Introducción:
 
+En el entorno empresarial actual, la productividad y la satisfacción de los empleados desempeñan un papel fundamental en el éxito de las organizaciones. El proyecto "Employee Productivity and Satisfaction Analysis" se enfoca en explorar las relaciones entre diversas variables relacionadas con el desempeño laboral y la satisfacción del personal dentro de nuestra empresa. Este análisis tiene como objetivo identificar factores clave que influyen en la productividad y la satisfacción de los empleados, con el fin de proporcionar información accionable para la toma de decisiones estratégicas en recursos humanos y gestión empresarial.
+
 ### Resumen:
 
+El proyecto "Employee Productivity and Satisfaction Analysis" se centra en la evaluación de datos relacionados con la productividad, la satisfacción y otras variables relevantes de los empleados en nuestra organización. Utilizando técnicas avanzadas de análisis de datos, buscamos identificar patrones, relaciones y tendencias que puedan ayudar a mejorar la gestión del talento y el rendimiento organizacional. Nuestro objetivo es proporcionar información significativa y accionable que permita tomar decisiones informadas para mejorar la productividad y la satisfacción de los empleados.
+
 ### Conceptos Claves:
+
+Productividad Laboral: La eficiencia y efectividad con la que los empleados realizan sus tareas y completan proyectos dentro de la organización.
+
+Satisfacción Laboral: El nivel de satisfacción y bienestar experimentado por los empleados en su entorno laboral, que puede influir en la retención del talento y el rendimiento general.
+
+Análisis de Datos: La aplicación de técnicas y herramientas para explorar, limpiar, transformar y modelar datos con el objetivo de obtener información valiosa para la toma de decisiones.
+
+Variables Laborales: Factores como la edad, género, departamento, posición, salario, entre otros, que pueden influir en el desempeño y la satisfacción de los empleados.
 
 ### Público Objetivo:
 
