@@ -123,6 +123,9 @@ Empleados y Profesionales Individuales: Incluso los empleados individuales podr√
   <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="100">
 
+    ![image](https://github.com/No-Country/c17-99-t-data-bi/assets/164912404/31965e49-36bb-4b38-a0f6-f3c58fdb2b7b)
+
+
 
 ###  Contacto:
 
