@@ -134,7 +134,7 @@ Empleados y Profesionales Individuales: Incluso los empleados individuales podr√
 | Yanira Martinez     | Project Manager                          | [GitHub](https://github.com/YaniraMartinez)  | [LinkedIn](https://www.linkedin.com/in/yanira-a-mart%C3%ADnez-garc%C3%ADa/)       |
 | Sonia Calle         | Analista de Datos                       | [GitHub](https://github.com/SoniaCalle)       | [LinkedIn](https://www.linkedin.com/in/sonia-calle)                                 |
 | Francesco Centarti  | Analista de Datos, Machine Learning      | [GitHub](https://github.com/FrancescoCentarti) | [LinkedIn](https://www.linkedin.com/in/francescocentartimaestu)                     |
-| Pablo Martinez      | Analista de Datos                       | [GitHub](https://github.com/PabloMartinez)    | [LinkedIn](https://www.linkedin.com/in/martiezpabloagustin)                         |
+
 
 
 
