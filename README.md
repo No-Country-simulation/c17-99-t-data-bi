@@ -1,3 +1,7 @@
+
+![marcaProyecto](https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/f91a3772-89c3-4769-aef2-f3bd5f8e7052)
+
+
 # Rendimiento Laboral en RRHH: Análisis y Visualización
 
 ### 📝 Índice:
@@ -61,31 +65,38 @@ Empleados y Profesionales Individuales: Incluso los empleados individuales podr�
 
  - **NumPy**: Librería fundamental para computación numérica en Python.
   
-   ![NumPy Logo](https://numpy.org/images/logos/numpy.svg)
-   <img src="https://numpy.org/images/logos/numpy.svg" width="100">
+   <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/d411fef5-109c-4731-be2f-8aba77141a2b" width="100">
+
+
+- **Matplotlib**: Librería fundamental para la generación de gráficos en dos dimensiones.
+
+   <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/34000e83-3e05-4e2c-9ed2-70cb0412ee3f" width="100">
 
 
 - **Colaboratory con Python**: Utilizaremos Colaboratory, una plataforma de Google basada en Jupyter Notebooks, junto con las potentes librerías de Python para análisis de datos como Pandas, NumPy y Matplotlib.
-     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100">
+  
+   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60">
 
 - **Power BI**: Para la visualización de datos avanzada, aprovecharemos Power BI, una herramienta líder en el mercado para crear informes interactivos y paneles de control.
-   
-   ![Power BI Logo](https://powerbi.microsoft.com/pictures/application-thumbnail/application_200x200.png)
+
+   <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/21548f2c-e075-46c3-a055-a22b021b9fac" width="100">
 
 - **Jira**: Para la gestión de proyectos ágil, utilizaremos Jira, una plataforma ampliamente utilizada para la planificación y seguimiento de proyectos de software.
    
-   ![Jira Logo](https://www.atlassian.com/software/jira/brand-resources/images/_jira_lockup_black.svg)
+   <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/7d049687-5151-45a5-a86b-1e2504c498cc" width="100">
 
-
-    ### Etapas del Proyecto:
-
-    - Proceso de ETL (Extracción, transformación y carga de datos) [ETL](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
-    - Proceso de EDA (Análisis Exploratorio de los datos) [EDA](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
+### Etapas del Proyecto:
+  - Proceso de ETL (Extracción, transformación y carga de datos) [ETL](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
+  - Proceso de EDA (Análisis Exploratorio de los datos) [EDA](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
+    
 ###  Herramientas utilizadas en el proyecto:
+- **Canva**: Es una plataforma de diseño gráfico y composición de imágenes.
+  
+  <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/d2d14fd6-5221-4a73-97e1-8f5d5c9cecb9" width="50">
 
 - **Miro**: Para la colaboración en línea y la creación de diagramas y tableros, emplearemos Miro, una herramienta intuitiva y versátil para la colaboración visual.
-   
-   ![Miro Logo](https://miro.com/static/images/layout/favicon-32x32.png)
+
+  <img src="https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/2f607513-71ad-42e9-96a0-8f36e2fabfc0" width="100">
    
 - **Slack**: Plataforma de comunicación para equipos.
   <br>
@@ -123,7 +134,8 @@ Empleados y Profesionales Individuales: Incluso los empleados individuales podr�
   <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="100">
 
-    ![image](https://github.com/No-Country/c17-99-t-data-bi/assets/164912404/31965e49-36bb-4b38-a0f6-f3c58fdb2b7b)
+    
+![tablero_jira](https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/83be4069-4956-409c-804e-410b208815d9)
 
 
 
