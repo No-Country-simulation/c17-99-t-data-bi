@@ -14,6 +14,7 @@
    - [**Datos**](#datos)
    - [**Librerías y plataformas**](#librerías-y-plataformas)
    - [**Etapas del Proyecto**](#etapas-del-proyecto)
+- [**Visualización en Power BI**](#visualización-en-power-bi)
 - [**Herramientas utilizadas en el proyecto**](#herramientas-utilizadas-en-el-proyecto)
 - [**Contacto**](#contacto)
 
@@ -88,7 +89,14 @@ Empleados y Profesionales Individuales: Incluso los empleados individuales podr�
 ### Etapas del Proyecto:
   - Proceso de ETL (Extracción, transformación y carga de datos) [ETL](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
   - Proceso de EDA (Análisis Exploratorio de los datos) [EDA](https://github.com/francescocm/c17-99-t-data-bi/blob/main/Employee_Productivity_and_Satisfaction_HR_Data.ipynb)
-    
+
+### Visualización en Power BI:
+![image](https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/25ac40a0-0fd6-481f-96c1-dd2cc63a3a3d)
+
+![image](https://github.com/No-Country/c17-99-t-data-bi/assets/77640142/b84c08ee-2aac-4590-84f4-964f25723f03)
+
+
+
 ###  Herramientas utilizadas en el proyecto:
 - **Canva**: Es una plataforma de diseño gráfico y composición de imágenes.
   
